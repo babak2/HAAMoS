@@ -1,4 +1,4 @@
-# HAAMoS Residential Segregation model
+# Hybrid Agent‐based Microsimulation of Segregation (HAAMoS) model
 
 This model was not initially developed with public usage in mind. 
 
