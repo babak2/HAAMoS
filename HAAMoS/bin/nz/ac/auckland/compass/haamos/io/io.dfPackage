@@ -1,0 +1,32 @@
+package id3xwdnhrjbf82yhrjbiyxx;
+
+/**
+@version 2.0
+@physicalPackage
+@__modelType diagram 
+*/
+class diagram {
+/**
+@__ref <oiref:java#Class#nz.ac.auckland.compass.haamos.io.CSV_FileWriter:oiref><oihard>
+@__modelType reference 
+*/
+class reference {
+}/**
+@__ref <oiref:java#Class#nz.ac.auckland.compass.haamos.io.ShapefileFilterAndChooser:oiref><oihard>
+@__modelType reference 
+*/
+class reference14 {
+}}/**
+@__tags
+@shapeType ClassDiagram 
+*/
+class __tags {
+}/**
+@__options 
+*/
+class __options {
+}/**
+@__positions 
+*/
+class __positions {
+}

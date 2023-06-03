@@ -1,0 +1,62 @@
+package id4wl0ghig36w38hig38uyl;
+
+/**
+@version 2.0
+@physicalPackage
+@__modelType diagram 
+*/
+class diagram {
+/**
+@__ref <oiref:design#Class#id3aj4phig36w38hig38uz5.diagram:oiref><oihard>
+@__modelType reference 
+*/
+class reference {
+}/**
+@__ref <oiref:design#Class#id4g1i0hig36w38hig38uyz.diagram:oiref><oihard>
+@__modelType reference 
+*/
+class reference48 {
+}/**
+@__ref <oiref:design#Class#id44pvahig36w38hig38uyt.diagram:oiref><oihard>
+@__modelType reference 
+*/
+class reference49 {
+}/**
+@__ref <oiref:design#Class#id1fpbfhig36w38hig38uyq.diagram:oiref><oihard>
+@__modelType reference 
+*/
+class reference50 {
+}/**
+@__ref <oiref:design#Class#id2oilihig36w38hig38uzb.diagram:oiref><oihard>
+@__modelType reference 
+*/
+class reference51 {
+}/**
+@__ref <oiref:design#Class#id3few1hig36w38hig38uz3.diagram:oiref><oihard>
+@__modelType reference 
+*/
+class reference52 {
+}/**
+@__ref <oiref:design#Class#id2vxvjhig36w38hig38uz8.diagram:oiref><oihard>
+@__modelType reference 
+*/
+class reference53 {
+}/**
+@__ref <oiref:design#Class#id156rhig36w38hig38uyw.diagram:oiref><oihard>
+@__modelType reference 
+*/
+class reference54 {
+}}/**
+@__tags
+@shapeType ClassDiagram 
+*/
+class __tags {
+}/**
+@__options 
+*/
+class __options {
+}/**
+@__positions 
+*/
+class __positions {
+}

@@ -1,0 +1,115 @@
+
+ runs: 1   
+  TolerancePrefG3
+  {
+   set_list: 0.12
+   //set_list: 
+  }
+
+RngSeed {
+ set: 1
+}
+  
+
+StartYear {
+ set: 1
+}
+
+   
+TolerancePrefG1  {
+ set: 0.38
+}
+   
+TolerancePrefG2  {
+ set: 0.13
+}
+
+TolerancePrefG4  {
+ set: 0.08
+}
+ //-----------------------
+
+AnyLocPrefPG1 {
+   set: 0.7
+}
+
+AnyLocPrefPG2 {
+   set: 0.6
+}
+
+AnyLocPrefPG3 {
+   set: 0.3
+}
+
+AnyLocPrefPG4 {
+   set: 0.3
+}
+
+TurnoverG1 {
+   //set: 0.09   // 1 tick  = 1 year
+   set: 0.10
+}
+TurnoverG2 {
+   //set: 0.11   // 1 tick  = 1 year
+   set: 0.10
+}
+TurnoverG3 {
+   //set: 0.10   // 1 tick  = 1 year
+   set: 0.10
+}
+TurnoverG4 {
+   //set: 0.12  // 1 tick  = 1 year
+   set: 0.10
+}
+//---------------------
+
+P_PersistG1 {
+   set: 0.5
+}
+
+
+P_PersistG2 {
+   set: 0.3
+}
+
+P_PersistG3 {
+   set: 0.3
+}
+
+P_PersistG4 {
+   set: 0.5
+}
+
+
+BetterLocSearchPrefOn {
+  set_boolean: false
+}
+
+
+StopAtTick {
+    set: 15
+}
+ 
+NbOfEthnicGroups {
+   set: 4
+}
+
+
+FlowInImm {
+   set: 1
+}
+FlowOutEmi {
+   set: 0
+}
+
+VacancyPercentage {
+   set: 0
+}
+
+
+
+
+
+
+
+

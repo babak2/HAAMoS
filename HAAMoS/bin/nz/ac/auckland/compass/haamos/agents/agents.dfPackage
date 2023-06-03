@@ -1,0 +1,47 @@
+package id2fj98hrjbf82yhrjbiyxp;
+
+/**
+@version 2.0
+@physicalPackage
+@__modelType diagram 
+*/
+class diagram {
+/**
+@__ref <oiref:java#Class#nz.ac.auckland.compass.haamos.agents.IPreference:oiref><oihard>
+@__modelType reference 
+*/
+class reference {
+}/**
+@__ref <oiref:java#Class#nz.ac.auckland.compass.haamos.agents.IAgent:oiref><oihard>
+@__modelType reference 
+*/
+class reference9 {
+}/**
+@__ref <oiref:java#Class#nz.ac.auckland.compass.haamos.agents.Realtor:oiref><oihard>
+@__modelType reference 
+*/
+class reference10 {
+}/**
+@__ref <oiref:java#Class#nz.ac.auckland.compass.haamos.agents.FocalEntity:oiref><oihard>
+@__modelType reference 
+*/
+class reference11 {
+}/**
+@__ref <oiref:java#Class#nz.ac.auckland.compass.haamos.agents.Household:oiref><oihard>
+@__modelType reference 
+*/
+class reference12 {
+}}/**
+@__tags
+@shapeType ClassDiagram 
+*/
+class __tags {
+}/**
+@__options 
+*/
+class __options {
+}/**
+@__positions 
+*/
+class __positions {
+}

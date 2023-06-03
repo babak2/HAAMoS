@@ -1,0 +1,32 @@
+package id2vxvjhig36w38hig38uz8;
+
+/**
+@version 2.0
+@physicalPackage
+@__modelType diagram 
+*/
+class diagram {
+/**
+@__ref <oiref:java#Class#nz.ac.auckland.compass.haamos.test.TestHelper:oiref><oihard>
+@__modelType reference 
+*/
+class reference {
+}/**
+@__ref <oiref:java#Class#nz.ac.auckland.compass.haamos.test.WriteHelper:oiref><oihard>
+@__modelType reference 
+*/
+class reference86 {
+}}/**
+@__tags
+@shapeType ClassDiagram 
+*/
+class __tags {
+}/**
+@__options 
+*/
+class __options {
+}/**
+@__positions 
+*/
+class __positions {
+}

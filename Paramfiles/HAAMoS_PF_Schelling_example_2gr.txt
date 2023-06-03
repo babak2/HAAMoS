@@ -1,0 +1,83 @@
+runs: 1
+  RngSeed  {
+    start: 1
+    end: 10
+    incr: 1
+   }
+ }    
+}
+
+
+AnyLocPrefPG1 {
+   set: 1.0
+}
+
+AnyLocPrefPG2 {
+   set: 1.0
+}
+
+//---------
+
+TolerancePrefG1 {
+  set: 0.5
+}
+
+
+TolerancePrefG2 {
+   set: 0.5
+}
+
+ 
+BetterLocSearchPrefOn {
+  set_boolean: false
+}
+
+
+StopAtTick {
+    set: 30
+}
+ 
+
+nbOfEthnicGroups {
+   set: 2
+}
+
+
+TurnoverG1 {
+   set: 0.1
+}
+
+TurnoverG2 {
+   set: 0.1
+}
+
+
+//-------Persist---------
+
+P_PersistG1 {
+   set: 0.5
+}
+
+
+P_PersistG2 {
+   set: 0.5
+}
+//--------------------
+
+FlowInImm {
+   set: 0
+}
+
+FlowOutEmi {
+   set: 0
+}
+
+VacancyPercentage {
+   set: 10
+}
+
+
+
+
+
+

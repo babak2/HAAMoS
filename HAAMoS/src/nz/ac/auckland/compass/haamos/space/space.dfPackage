@@ -1,0 +1,52 @@
+package id3aj4phig36w38hig38uz5;
+
+/**
+@version 2.0
+@physicalPackage
+@__modelType diagram 
+*/
+class diagram {
+/**
+@__ref <oiref:java#Class#nz.ac.auckland.compass.haamos.space.TAPop:oiref><oihard>
+@__modelType reference 
+*/
+class reference {
+}/**
+@__ref <oiref:java#Class#nz.ac.auckland.compass.haamos.space.AreaUnit:oiref><oihard>
+@__modelType reference 
+*/
+class reference81 {
+}/**
+@__ref <oiref:java#Class#nz.ac.auckland.compass.haamos.space.GeoSpace:oiref><oihard>
+@__modelType reference 
+*/
+class reference82 {
+}/**
+@__ref <oiref:java#Class#nz.ac.auckland.compass.haamos.space.SpatialArea:oiref><oihard>
+@__modelType reference 
+*/
+class reference83 {
+}/**
+@__ref <oiref:java#Class#nz.ac.auckland.compass.haamos.space.Position:oiref><oihard>
+@__modelType reference 
+*/
+class reference84 {
+}/**
+@__ref <oiref:java#Class#nz.ac.auckland.compass.haamos.space.GroupPopInfo:oiref><oihard>
+@__modelType reference 
+*/
+class reference85 {
+}}/**
+@__tags
+@shapeType ClassDiagram 
+*/
+class __tags {
+}/**
+@__options 
+*/
+class __options {
+}/**
+@__positions 
+*/
+class __positions {
+}

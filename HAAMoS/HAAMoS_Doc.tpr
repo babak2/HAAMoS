@@ -1,0 +1,25 @@
+[Project]
+Language=java
+Root.0=$TGH$/lib/javax.jar
+Root.0.access=import
+Root.0.package_prefix=
+Root.1=$TGH$/jdk/lib/rt.jar
+Root.1.access=import
+Root.1.package_prefix=
+Root.2=$PROJECT_DIR$
+Root.2.access=writable
+Root.2.file_types=java_source;java_class;diagram;
+Root.2.package_prefix=
+Root.2.srcControlEnabled=false
+Root.2.srcControlProject=
+Version=3.0
+[model]
+alphaSort=true
+showDiagramContents=false
+showPackagesFirst=true
+[genHTML]
+folder=D:\\BMA\\PhD\\CD-ROM_thesisII_Final_Last\\D.1.HAAMoS Model\\D.1.2.Javadocs
+generateFor=all_packages
+includeDiagrams=true
+launchBrowser=true
+navigationTree=true

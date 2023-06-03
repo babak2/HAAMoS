@@ -1,0 +1,62 @@
+package id4fi9dhig36w38hig38v4i;
+
+/**
+@version 2.0
+@physicalPackage
+@__modelType diagram 
+*/
+class diagram {
+/**
+@__ref <oiref:java#Class#nz.ac.auckland.compass.haamos.repast3extension.util.ExtendedPropertyDescriptor:oiref><oihard>
+@__modelType reference 
+*/
+class reference {
+}/**
+@__ref <oiref:java#Class#nz.ac.auckland.compass.haamos.repast3extension.util.DecimalRangePropertyDescriptor:oiref><oihard>
+@__modelType reference 
+*/
+class reference74 {
+}/**
+@__ref <oiref:java#Class#nz.ac.auckland.compass.haamos.repast3extension.util.TextFieldWidget:oiref><oihard>
+@__modelType reference 
+*/
+class reference75 {
+}/**
+@__ref <oiref:java#Class#nz.ac.auckland.compass.haamos.repast3extension.util.ExtendedRangePropertyDescriptor:oiref><oihard>
+@__modelType reference 
+*/
+class reference76 {
+}/**
+@__ref <oiref:java#Class#nz.ac.auckland.compass.haamos.repast3extension.util.DecimalRangeWidget:oiref><oihard>
+@__modelType reference 
+*/
+class reference77 {
+}/**
+@__ref <oiref:java#Class#nz.ac.auckland.compass.haamos.repast3extension.util.ExtendedRangeWidget:oiref><oihard>
+@__modelType reference 
+*/
+class reference78 {
+}/**
+@__ref <oiref:java#Class#nz.ac.auckland.compass.haamos.repast3extension.util.TextFieldPropertyDescriptor:oiref><oihard>
+@__modelType reference 
+*/
+class reference79 {
+}/**
+@__ref <oiref:java#Class#nz.ac.auckland.compass.haamos.repast3extension.util.IExtendedPropertyWidget:oiref><oihard>
+@__modelType reference 
+*/
+class reference80 {
+}}/**
+@__tags
+@shapeType ClassDiagram 
+*/
+class __tags {
+}/**
+@__options 
+*/
+class __options {
+}/**
+@__positions 
+*/
+class __positions {
+}
