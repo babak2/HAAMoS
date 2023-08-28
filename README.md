@@ -7,12 +7,11 @@ HAAMoS is a data-driven, multifactor, multiscale, multi-measure agent-based micr
 ![HAAMoS Hybrid Model](./Images/HAAMoS.png)
 
 The model can be used within the limited range of functionalities described in the thesis titled  
-```Using a Hybrid Model for Investigating Residential Segregation: An Empirical and Simulation-based Study```
+```*Using a Hybrid Model for Investigating Residential Segregation: An Empirical and Simulation-based Study*```
 
-Please note that the HAAMoS model was not initially developed with public usage in mind. 
-At its current stage, it may not be user-friendly, and several features are still under development. 
+Please note that the HAAMoS model was not initially developed with public usage in mind. As it stands currently, the model may not be very user-friendly. 
 
-Some concepts and features have been inherited and maintained from initial built prototypes, some of which may not be fully functional in the HAAMoS model. 
+Some concepts and features have been inherited and maintained from the initial prototypes (described in the thesis), and there might be instances where certain aspects are not fully functional within the HAAMoS model.
 
 ## Model Requirements
 
