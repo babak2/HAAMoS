@@ -1,13 +1,18 @@
-# Hybrid Agent‐based Microsimulation of Segregation (HAAMoS) model
+# Hybrid Agent‐based Microsimulation of Segregation (HAAMoS)
 
-This model was not initially developed with public usage in mind. 
+This is the code for the HAAMoS (Hybrid Agent‐based Microsimulation of Segregation) model.
 
-At its current stage, it may not be user-friendly, and several features are still under development. 
-Some concepts and features have been inherited and maintained from previous prototypes, some of which may not be fully functional in the HAAMoS model. 
+HAAMoS is a data-driven, multifactor, multiscale, multi-measure agent-based microsimulation model for investigating various scenarios related to the effects of population mobility, housing vacancy, preference (behavior), and economic factors on ethnic residential segregation.
 
-The model can be used within the limited range of functionalities described in the thesis titled 
+![HAAMoS Hybrid Model](./Images/HAAMoS.png)
+
+The model can be used within the limited range of functionalities described in the thesis titled  
 ```Using a Hybrid Model for Investigating Residential Segregation: An Empirical and Simulation-based Study```
 
+Please note that the HAAMoS model was not initially developed with public usage in mind. 
+At its current stage, it may not be user-friendly, and several features are still under development. 
+
+Some concepts and features have been inherited and maintained from initial built prototypes, some of which may not be fully functional in the HAAMoS model. 
 
 ## Model Requirements
 
