@@ -60,18 +60,21 @@ To import the HAAMoS project into Eclipse, follow these instructions:
 To run the model follow these steps:
 
 - Initial Launch:
-    If the launch configuration does not exist, select the HAAMoSModel.java file from the listing.
-    Right-click on the file and choose "Run As > Java Application" from the pop-up menu.
-    This will create a launch configuration item, allowing you to directly use the run button or menu in the future.
+
+    - If the launch configuration does not exist, select the HAAMoSModel.java file from the listing.
+    - Right-click on the file and choose "Run As > Java Application" from the pop-up menu.
+    - This will create a launch configuration item, allowing you to directly use the run button or menu in the future.
 
 - Launch Configuration:
-    Beside the run button in the Eclipse toolbar (green arrow resembling a VCR play button), locate a black arrow pointing down.
-    Click on the black arrow and select the launch configuration "1 HAAMoSModel."
+
+    - Beside the run button in the Eclipse toolbar (green arrow resembling a VCR play button), locate a black arrow pointing down.
+    - Click on the black arrow and select the launch configuration "1 HAAMoSModel."
 
 - Model Execution:
-    Once the HAAMoS model is launched, you can utilize the model toolbar for execution.
-    The model toolbar includes control buttons such as 'Load model', 'Multi-runs start', 'Start', 'Step', 'Initialize', 'Stop', 'Pause', 'Setup', and 'Exit'.
-    Notably, the multi-runs function enables batch runs by loading a prewritten parameter file.
+
+    - Once the HAAMoS model is launched, you can utilize the model toolbar for execution.
+    - The model toolbar includes control buttons such as 'Load model', 'Multi-runs start','Start', 'Step', 'Initialize', 'Stop', 'Pause', 'Setup', and 'Exit'.
+    - Notably, the multi-runs function enables batch runs by loading a prewritten parameter file.
 
 Additional Configuration (Batch Mode):
 
