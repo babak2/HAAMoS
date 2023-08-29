@@ -2,9 +2,11 @@
 
 This is the code for the HAAMoS (Hybrid Agent‐based Microsimulation of Segregation) model.
 
-HAAMoS is a data-driven, multifactor, multiscale, multi-measure agent-based microsimulation model for investigating various scenarios related to the effects of population mobility, housing vacancy, preference (behavior), and economic factors on ethnic residential segregation.
+HAAMoS is a data-driven, multifactor, multiscale, multi-measure agent-based microsimulation model for investigating various scenarios related to the effects of population mobility, housing vacancy, individual preferences & behaviors, and economic factors on ethnic residential segregation.
 
 ![HAAMoS Hybrid Model](./Images/HAAMoS.png)
+
+The scenarios are applied to the multi-ethnic population of the Auckland metropolitan area, encompassing four significant ethnic groups. Population mobility, driven by empirical data, is generated from geographical census-based area units. However, the majority of analyses are concentrated within the five most densely populated territorial authorities of central Auckland region.
 
 The model can be used within the limited range of functionalities described in the thesis titled:  
 *Using a Hybrid Model for Investigating Residential Segregation: An Empirical and Simulation-based Study*
@@ -55,21 +57,21 @@ To import the HAAMoS project into Eclipse, follow these instructions:
 
 ## To run the HAAMoS model in Eclipse
 
-    follow these steps:
+To run the model follow these steps:
 
-    Initial Launch:
-        If the launch configuration does not exist, select the HAAMoSModel.java file from the listing.
-        Right-click on the file and choose "Run As > Java Application" from the pop-up menu.
-        This will create a launch configuration item, allowing you to directly use the run button or menu in the future.
+- Initial Launch:
+    If the launch configuration does not exist, select the HAAMoSModel.java file from the listing.
+    Right-click on the file and choose "Run As > Java Application" from the pop-up menu.
+    This will create a launch configuration item, allowing you to directly use the run button or menu in the future.
 
-    Launch Configuration:
-        Beside the run button in the Eclipse toolbar (green arrow resembling a VCR play button), locate a black arrow pointing down.
-        Click on the black arrow and select the launch configuration "1 HAAMoSModel."
+- Launch Configuration:
+    Beside the run button in the Eclipse toolbar (green arrow resembling a VCR play button), locate a black arrow pointing down.
+    Click on the black arrow and select the launch configuration "1 HAAMoSModel."
 
-    Model Execution:
-        Once the HAAMoS model is launched, you can utilize the model toolbar for execution.
-        The model toolbar includes control buttons such as 'Load model', 'Multi-runs start', 'Start', 'Step', 'Initialize', 'Stop', 'Pause', 'Setup', and 'Exit'.
-        Notably, the multi-runs function enables batch runs by loading a prewritten parameter file.
+- Model Execution:
+    Once the HAAMoS model is launched, you can utilize the model toolbar for execution.
+    The model toolbar includes control buttons such as 'Load model', 'Multi-runs start', 'Start', 'Step', 'Initialize', 'Stop', 'Pause', 'Setup', and 'Exit'.
+    Notably, the multi-runs function enables batch runs by loading a prewritten parameter file.
 
 Additional Configuration (Batch Mode):
 
