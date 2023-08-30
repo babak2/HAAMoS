@@ -78,24 +78,24 @@ To run the model follow these steps:
 
 Additional Configuration (Batch Mode):
 
-    Batch Mode Setting:
-        If running the model in batch mode, ensure that the BatchMode parameter in the Const class is set to "true."
-        If not running in batch mode, set it to "false" (BatchMode = false).
+- Batch Mode Setting:
+    - If running the model in batch mode, ensure that the BatchMode parameter in the Const class is set to "true."
+    - If not running in batch mode, set it to "false" (BatchMode = false).
 
-    Shapefile Configuration:
-        In batch mode, correctly set the shapefile name and its path using the BatchModeFilenamePath parameter.
+- Shapefile Configuration:
+    - In batch mode, correctly set the shapefile name and its path using the BatchModeFilenamePath parameter.
 
-    Environment Settings:
-        If using an artificial environment (e.g., Schelling or Fossett shapefile), set the DefaultRadiusSizeOfGroupPopIndicator parameter to 0.009f.
-        For a more realistic mode, set it to 0.004 for better display results.
+- Environment Settings:
+    - If using an artificial environment (e.g., Schelling or Fossett shapefile), set the DefaultRadiusSizeOfGroupPopIndicator parameter to 0.009f.
+    - For a more realistic mode, set it to 0.004 for better display results.
 
-    Immigration Configuration:
-        When immigration is used, set the FlowInImm parameter to a value greater than 0 in both batch and normal modes.
+- Immigration Configuration:
+    - When immigration is used, set the FlowInImm parameter to a value greater than 0 in both batch and normal modes.
 
-    Census-based Immigration:
-        Set the CensusBasedFlowInImmigration parameter to either "true" or "false" based on your preference.
-        If set to "true," the model will utilize census values and functions with census vacancy rates.
-        If set to "false," you can specify your own value using the FlowInImm parameter.
+- Census-based Immigration:
+    - Set the CensusBasedFlowInImmigration parameter to either "true" or "false" based on your preference.
+    - If set to "true," the model will utilize census values and functions with census vacancy rates.
+    - If set to "false," you can specify your own value using the FlowInImm parameter.
 
 Make sure to adjust these parameters in the Const class of the HAAMoS model to suit your desired settings and then execute the model accordingly.
 
