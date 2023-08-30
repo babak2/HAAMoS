@@ -76,6 +76,7 @@ To run the model follow these steps:
     - The model toolbar includes control buttons such as 'Load model', 'Multi-runs start','Start', 'Step', 'Initialize', 'Stop', 'Pause', 'Setup', and 'Exit'.
     - Notably, the multi-runs function enables batch runs by loading a prewritten parameter file.
 
+
 Additional Configuration (Batch Mode):
 
 - Batch Mode Setting:
@@ -101,28 +102,24 @@ Make sure to adjust these parameters in the Const class of the HAAMoS model to s
 
 ## To increase the heap size for running simulations in Eclipse
 
-follow these steps:
 
-    Right-click on the HAAMoSModel.java file in the Eclipse Package Explorer to open the pop-up menu.
+- Right-click on the HAAMoSModel.java file in the Eclipse Package Explorer to open the pop-up menu.
 
-    From the pop-up menu, select "Run As" and then choose "Open Run Dialog..." option.
+- From the pop-up menu, select "Run As" and then choose "Open Run Dialog..." option.
 
-    This will open the Run Configurations dialog box.
+- This will open the Run Configurations dialog box.
 
-    In the Run Configurations dialog box, locate the "VM arguments" section.
+- In the Run Configurations dialog box, locate the "VM arguments" section.
 
-    In the VM arguments field, add the following argument to increase the maximum heap size:
+- In the VM arguments field, add the following argument to increase the maximum heap size:
     -Xmx<maximum heap size>
 
-    For example, to set the maximum heap size to 600 Megabytes, use -Xmx600M.
+- For example, to set the maximum heap size to 600 Megabytes, use -Xmx600M.
 
-    After setting the desired maximum heap size, click the "Apply" button to save the changes.
+- After setting the desired maximum heap size, click the "Apply" button to save the changes.
 
-    Click the "Run" button to launch the simulation with the increased heap size.
+- Click the "Run" button to launch the simulation with the increased heap size.
 
 By increasing the heap size, you allocate more memory to the Java runtime, which can help prevent Java "Out Of Memory Error" messages during the execution of scenarios.
 
 
-
-## Next
-...
