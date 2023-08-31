@@ -8,6 +8,16 @@ HAAMoS is a data-driven, multifactor, multiscale, multi-measure agent-based micr
 
 The scenarios are applied to the multi-ethnic population of the Auckland metropolitan area, encompassing four significant ethnic groups. Population mobility, driven by empirical data, is generated from geographical census-based area units. However, the majority of analyses are concentrated within the five most densely populated territorial authorities of central Auckland region.
 
+The model can calculate the following segregation measures:
+
+- Entropy-based Information Theory Index (H)
+- Interaction Index (I.Ixy)
+- Isolation Index (I.Ixx)
+- Local Moran's I (LISA/ LMI)
+- Global Moran's I (GMI)
+- Location Quotient (LQ)
+- Plurality Index (PI)
+
 The model can be used within the limited range of functionalities described in the thesis titled:  
 *Using a Hybrid Model for Investigating Residential Segregation: An Empirical and Simulation-based Study*
 
