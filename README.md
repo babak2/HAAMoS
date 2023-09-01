@@ -11,8 +11,8 @@ The scenarios are applied to the multi-ethnic population of the Auckland metropo
 The model can calculate the following segregation measures:
 
 - Entropy-based Information Theory Index (H)
-- Interaction Index (I.Ixy)
-- Isolation Index (I.Ixx)
+- Interaction Index (I.I<sub>xy</sub>)
+- Isolation Index (I.I<sub>xx</sub>)
 - Local Moran's I (LISA/ LMI)
 - Global Moran's I (GMI)
 - Location Quotient (LQ)
