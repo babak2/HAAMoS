@@ -117,6 +117,8 @@ Make sure to adjust these parameters in the Const class of the HAAMoS model to s
 
 - From the pop-up menu, select "Run As" and then choose "Open Run Dialog..." option.
 
+![Open Run Dialog](./Images/open-run-dialog.png)
+
 - This will open the Run Configurations dialog box.
 
 - In the Run Configurations dialog box, locate the "VM arguments" section.
