@@ -144,6 +144,6 @@ The HAAMoS model is licensed under the GNU GENERAL PUBLIC LICENSE. See LICENSE f
 
 ## Contact 
 
-Babak Mahdavi Aresetani
+Babak Mahdavi Ardestani
 
 babak.m.ardestani@gmail.com
