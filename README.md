@@ -48,7 +48,7 @@ To import a Repast project into Eclipse, follow these instructions:
 3.	Select General -> Existing Projects into Workspace
 4.	Click Next
 5.	Click Browse (in front of Select root directory radio button) 
-6.	Select the root directory of the Repast project from CD-ROM
+6.	Select the root directory of the Repast folder
 7.	Select Copy projects into workspace 
 8.	Click Finish
 
@@ -61,7 +61,7 @@ To import the HAAMoS project into Eclipse, follow these instructions:
 3.	Select General -> Existing Projects into Workspace
 4.	Click Next
 5.	Click Browse (in front of Select root directory radio button) 
-6.	Select the root directory of HAAMoS project from CD-ROM
+6.	Select the root directory of HAAMoS folder
 7.	Select Copy projects into workspace 
 8.	Click Finish
 
