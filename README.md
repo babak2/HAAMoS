@@ -126,7 +126,9 @@ Make sure to adjust these parameters in the Const class of the HAAMoS model to s
 - In the VM arguments field, add the following argument to increase the maximum heap size:
     -Xmx<maximum heap size>
 
-- For example, to set the maximum heap size to 600 Megabytes, use -Xmx600M.
+- For example, to set the maximum heap size to 500 Megabytes, use -Xmx500M.
+
+![Heap size increase in VM Arguments](./Images/vm-argument.png)
 
 - After setting the desired maximum heap size, click the "Apply" button to save the changes.
 
