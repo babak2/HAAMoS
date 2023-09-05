@@ -137,3 +137,13 @@ Make sure to adjust these parameters in the Const class of the HAAMoS model to s
 By increasing the heap size, you allocate more memory to the Java runtime, which can help prevent Java "Out Of Memory Error" messages during the execution of scenarios.
 
 
+## License
+
+The HAAMoS model is licensed under the GNU GENERAL PUBLIC LICENSE. See LICENSE for more information.
+
+
+## Contact 
+
+Babak Mahdavi Aresetani
+
+babak.m.ardestani@gmail.com
