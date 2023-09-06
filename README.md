@@ -25,15 +25,11 @@ Please note that the HAAMoS model was not initially developed with public usage 
 
 ## Model Requirements
 
-To install and run the HAAMoS model, you need to install the following three programs on your computer. 
+To install and run the HAAMoS model, you need to install the following programs on your computer. 
+
 You can install Java before installing Eclipse. 
-The model was tested on the Windows operating system (both XP and 7), but it should also work on other platforms such as Mac OS and Linux, as long as you download and install the compatible versions of the following programs. 
 
-Additionally, you may need to adjust the paths to specific files in the batch mode according to the syntax requirements of your operating system.
-
-Please note that the compatibility and installation instructions may vary depending on your specific operating system and software versions. 
-
-It's recommended to refer to the documentation or guidelines provided with each program for detailed installation and configuration instructions.
+The model was tested on the Windows operating system, but it should also work on other platforms such as Mac OS and Linux, as long as you download and install the compatible versions of the following programs. Additionally, you may need to adjust the paths to specific files in the batch mode according to the syntax requirements of your operating system. Please note that the compatibility and installation instructions may vary depending on your specific operating system and software versions. It's recommended to refer to the documentation or guidelines provided with each program for detailed installation and configuration instructions.
 
 1)	Java SDK 1.5 or higher
 2)	Eclipse 3.3 or higher
