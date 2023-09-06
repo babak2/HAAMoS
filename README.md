@@ -38,6 +38,7 @@ It's recommended to refer to the documentation or guidelines provided with each 
 1)	Java SDK 1.5 or higher
 2)	Eclipse 3.3 or higher
 3)	RepastJ version 3.1
+4)  JFreeChart (used 1.0.13.jar) and JCommon (used 1.0.16.jar)
 
 ## Setting up Repast in Eclipse
 
@@ -142,7 +143,7 @@ By increasing the heap size, you allocate more memory to the Java runtime, which
 The HAAMoS model is licensed under the GNU GENERAL PUBLIC LICENSE. See LICENSE for more information.
 
 
-## Contact 
+## Author 
 
 Babak Mahdavi Ardestani
 
