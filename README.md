@@ -2,11 +2,15 @@
 
 This is the code for the HAAMoS (Hybrid Aggregated Agent‐based Microsimulation of Segregation) model.
 
-HAAMoS is a data-driven, multifactor, multiscale, multi-measure agent-based microsimulation model for investigating various scenarios related to the effects of population mobility, housing vacancy, individual preferences & behaviors, and economic factors on ethnic residential segregation.
+HAAMoS is a data-driven, multifactor, multiscale, multi-measure agent-based microsimulation model for investigating various scenarios related to the effects of population mobility, housing vacancy, individual preferences & behaviours, and economic factors on ethnic residential segregation.
 
 ![HAAMoS Hybrid Model](./Images/HAAMoS.png)
 
-The scenarios are applied to the multi-ethnic population of the Auckland metropolitan area, encompassing four significant ethnic groups. Population mobility, driven by empirical data, is generated from geographical census-based area units. However, the majority of analyses are concentrated within the five most densely populated territorial authorities of central Auckland region.
+The scenarios are applied to the multi-ethnic population of the Auckland metropolitan area, encompassing four significant ethnic groups. Population mobility, driven by empirical data, is generated from geographical census-based area units. However, the majority of analyses are concentrated within the five most densely populated territorial authorities of the central Auckland region.
+
+While the Auckland region serves as a case study to investigate residential segregation dynamics and ethnic mosaic patterns, the model's versatility allows its application to any urban area. To adapt the model to a different urban area, one would need the corresponding shapefile, GAL file, and other relevant empirical data.
+
+One notable feature of this hybrid approach, which combines agent-based modelling (ABM) and Microsimulation (MSM) methodologies, is its ability to operate in both realistic, census-GIS-based environments and artificial grid-based settings.
 
 The model can calculate the following segregation measures:
 
@@ -29,7 +33,7 @@ To install and run the HAAMoS model, you need to install the following programs 
 
 You can install Java before installing Eclipse. 
 
-The model was tested on the Windows operating system, but it should also work on other platforms such as Mac OS and Linux, as long as you download and install the compatible versions of the following programs. Additionally, you may need to adjust the paths to specific files in the batch mode according to the syntax requirements of your operating system. Please note that the compatibility and installation instructions may vary depending on your specific operating system and software versions. It's recommended to refer to the documentation or guidelines provided with each program for detailed installation and configuration instructions.
+The model was tested on the Windows operating system, but it should also work on other platforms such as Mac OS and Linux, as long as you download and install the compatible versions of the following programs. Additionally, you may need to adjust the paths to specific files in batch mode according to the syntax requirements of your operating system. Please note that the compatibility and installation instructions may vary depending on your specific operating system and software versions. It's recommended to refer to the documentation or guidelines provided with each program for detailed installation and configuration instructions.
 
 1)	Java SDK 1.5 or higher
 2)	Eclipse 3.3 or higher
@@ -44,9 +48,9 @@ To import a Repast project into Eclipse, follow these instructions:
 2.	Click File -> import 
 3.	Select General -> Existing Projects into Workspace
 4.	Click Next
-5.	Click Browse (in front of Select root directory radio button) 
+5.	Click Browse (in front of the Select root directory radio button) 
 6.	Select the root directory of the Repast folder
-7.	Select Copy projects into workspace 
+7.	Select Copy projects into the workspace 
 8.	Click Finish
 
 ## Setting up HAAMoS in Eclipse
@@ -57,9 +61,9 @@ To import the HAAMoS project into Eclipse, follow these instructions:
 2.	Click File -> import 
 3.	Select General -> Existing Projects into Workspace
 4.	Click Next
-5.	Click Browse (in front of Select root directory radio button) 
-6.	Select the root directory of HAAMoS folder
-7.	Select Copy projects into workspace 
+5.	Click Browse (in front of the Select root directory radio button) 
+6.	Select the root directory of the HAAMoS folder
+7.	Select Copy projects into the workspace 
 8.	Click Finish
 
 ## To run the HAAMoS model in Eclipse
@@ -103,7 +107,7 @@ Additional Configuration (Batch Mode):
 - Census-based Immigration:
     - Set the CensusBasedFlowInImmigration parameter to either "true" or "false" based on your preference.
     - If set to "true," the model will utilize census values and functions with census vacancy rates.
-    - If set to "false," you can specify your own value using the FlowInImm parameter.
+    - If set to "false," you can specify your value using the FlowInImm parameter.
 
 Make sure to adjust these parameters in the Const class of the HAAMoS model to suit your desired settings and then execute the model accordingly.
 
@@ -112,7 +116,7 @@ Make sure to adjust these parameters in the Const class of the HAAMoS model to s
 
 - Right-click on the HAAMoSModel.java file in the Eclipse Package Explorer to open the pop-up menu.
 
-- From the pop-up menu, select "Run As" and then choose "Open Run Dialog..." option.
+- From the pop-up menu, select "Run As" and then choose the "Open Run Dialog..." option.
 
 ![Open Run Dialog](./Images/open-run-dialog.png)
 
