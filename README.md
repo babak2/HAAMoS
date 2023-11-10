@@ -23,6 +23,7 @@ The model can calculate the following segregation measures:
 - Plurality Index (PI)
 
 The model can be used within the limited range of functionalities described in:  
+
 **_Using a Hybrid Model for Investigating Residential Segregation: An Empirical and Simulation-based Study_**
 
 and 
