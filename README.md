@@ -23,8 +23,10 @@ The model can calculate the following segregation measures:
 - Plurality Index (PI)
 
 The model can be used within the limited range of functionalities described in:  
-*Using a Hybrid Model for Investigating Residential Segregation: An Empirical and Simulation-based Study*
+**_Using a Hybrid Model for Investigating Residential Segregation: An Empirical and Simulation-based Study_**
+
 and 
+
 **_An agent-based microsimulation framework for investigating residential segregation using census data_**
 
 Please note that the HAAMoS model was not initially developed with public usage in mind. Some concepts and features have been inherited and maintained from the initial prototypes (described in the thesis), and there might be instances where certain aspects are not fully functional within the HAAMoS model.
